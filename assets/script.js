@@ -28,5 +28,5 @@ if (randomTopic === 'HTML') {
 
 }
 
-console.log('Here are the topics we learned throuh Prework:');
+console.log('Here are the topics we learned throughout Prework:');
 listTopics();
